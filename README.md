@@ -1,4 +1,7 @@
 # My Japanese
+
+![My Japanese](my-japanese.png)
+
 Quiz game for learning hiragana, katakana, and basic kanji.<br />
 created with ActionScript 3.0.<br />
 <br />
